@@ -14,7 +14,7 @@ import os
 ENTRY = (
     "To: my mom\n"
     "i still rehearse what i'd say if you asked why i never came home "
-    "for dad's birthday\n"
+    "for dad's birthday, the year you kept my slice in the fridge\n"
 )
 
 
